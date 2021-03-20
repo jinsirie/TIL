@@ -7,7 +7,7 @@
 
 
 
-![image-20210320183531748](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210320183531748.png)
+![image-20210320183531748](https://user-images.githubusercontent.com/80724973/111868007-e68f3780-89ba-11eb-9080-84cf8e2de9c0.png)
 
 
 
@@ -48,9 +48,9 @@
 
 
 
-![image-20210320194809046](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210320194809046.png)
+![image-20210320194809046](https://user-images.githubusercontent.com/80724973/111868005-e5f6a100-89ba-11eb-8a29-514c28ae21a3.png)
 
-![image-20210320195003258](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210320195003258.png)
+![image-20210320195003258](https://user-images.githubusercontent.com/80724973/111868008-e727ce00-89ba-11eb-8f73-486d0bf7a60a.png)
 
 
 
