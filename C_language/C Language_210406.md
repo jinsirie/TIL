@@ -14,7 +14,7 @@
 
 
 
-![image-20210406211127908](img/image-20210406211127908.png)
+![image-20210406211127908](https://github.com/jinsirie/TIL/blob/main/img/image-20210406211127908.png)
 
 ​                                           Ref.https://www.jkun.net/445
 
