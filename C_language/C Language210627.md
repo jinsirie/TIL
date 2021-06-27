@@ -35,7 +35,7 @@ main(void)
 
 
 
-![image-20210627203527071](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210627203527071.png)
+![image-20210627203527071](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20210627203527071.png)
 
 
 
@@ -60,7 +60,7 @@ int main(void)
 }
 ```
 
-![image-20210627204330957](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210627204330957.png)
+![image-20210627204330957](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20210627204330957.png)
 
 
 
@@ -90,7 +90,7 @@ int main(void)
   
   ```
 
-  ![image-20210627204734590](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210627204734590.png)
+  ![image-20210627204734590](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20210627204734590.png)
 
 
 
@@ -125,4 +125,4 @@ int main(void)
 }
 ```
 
-![image-20210627205942077](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210627205942077.png)
+![image-20210627205942077](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20210627205942077.png)
