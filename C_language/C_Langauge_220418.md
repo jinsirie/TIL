@@ -30,7 +30,7 @@ int main(void)
 }
 ```
 
-![image-20220418212707916](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20220418212707916.png)
+![image-20220418212707916](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20220418212707916.png)
 
 - 위의 반복 루프는 사용자로부터 10개의 실수를 받아서 합계를 출력, 중간의 음수를 입력하면 반복루프 exit
 
@@ -57,4 +57,4 @@ int main(void)
 
 
 
-![image-20220418213135976](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20220418213135976.png)
+![image-20220418213135976](https://github.com/jinsirie/TIL/blob/ae8ec8417cfab8dacfeba1adaef3a34609f08799/img/image-20220418213135976.png)
