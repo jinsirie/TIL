@@ -48,7 +48,7 @@ int main(void)
 }
 ```
 
-![](@attachment/Clipboard_2022-04-28-19-39-58.png)
+![Clipboard_2022-04-28-19-39-58.png](https://github.com/jinsirie/TIL/blob/dbf0ccb9f31991c64876b7a68aa2ac6d8fb5aca1/img/Clipboard_2022-04-28-19-39-58.png)
 
 
 3.예제 2
@@ -76,7 +76,7 @@ int main(void)
 
 ```
 
-![](@attachment/Clipboard_2022-04-28-19-47-00.png)
+![Clipboard_2022-04-28-19-47-00.png](https://github.com/jinsirie/TIL/blob/dbf0ccb9f31991c64876b7a68aa2ac6d8fb5aca1/img/Clipboard_2022-04-28-19-47-00.png)
 
 
 4. 예제 3
@@ -115,5 +115,5 @@ int main(void)
 ```
 
 
-![](@attachment/Clipboard_2022-04-28-19-58-07.png)
+![Clipboard_2022-04-28-19-58-07.png](https://github.com/jinsirie/TIL/blob/dbf0ccb9f31991c64876b7a68aa2ac6d8fb5aca1/img/Clipboard_2022-04-28-19-58-07.png)
 
