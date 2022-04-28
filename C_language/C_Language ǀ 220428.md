@@ -1,9 +1,4 @@
----
-attachments: [Clipboard_2022-04-28-19-39-58.png, Clipboard_2022-04-28-19-47-00.png, Clipboard_2022-04-28-19-58-07.png]
-title: C_Language | 220428
-created: '2022-04-28T10:26:39.538Z'
-modified: '2022-04-28T10:58:56.282Z'
----
+
 
 ## C_Language | 220428
 
