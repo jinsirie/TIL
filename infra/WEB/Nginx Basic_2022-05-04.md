@@ -31,7 +31,7 @@ systemctl status nginx
 systemctl stop/start nginx
 ```
 
-![](@attachment/https://github.com/jinsirie/TIL/blob/8b1dc64cab8217274e4c4c7d9cbc3879a5584bb4/img/Clipboard_2022-05-03-14-34-31.png)
+![Clipboard_2022-05-03-14-34-31.png](https://github.com/jinsirie/TIL/blob/8b1dc64cab8217274e4c4c7d9cbc3879a5584bb4/img/Clipboard_2022-05-03-14-34-31.png)
 
 
 
@@ -158,4 +158,4 @@ server {
 
 
 
-![](@attachment/https://github.com/jinsirie/TIL/blob/8b1dc64cab8217274e4c4c7d9cbc3879a5584bb4/img/Clipboard_2022-05-04-10-07-19.png)
+![Clipboard_2022-05-04-10-07-19.png](https://github.com/jinsirie/TIL/blob/8b1dc64cab8217274e4c4c7d9cbc3879a5584bb4/img/Clipboard_2022-05-04-10-07-19.png)
