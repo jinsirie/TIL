@@ -27,7 +27,7 @@ int main(void)
 }
 ```
 
-!Clipboard_2022-05-17-05-40-18.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-40-18.png)
+![Clipboard_2022-05-17-05-40-18.png](https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-40-18.png)
 
 
 
@@ -54,7 +54,7 @@ int main(void)
 ```
 
 
-!Clipboard_2022-05-17-05-43-40.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-43-40.png)
+![Clipboard_2022-05-17-05-43-40.png](https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-43-40.png)
 
 
 ### 2. 포인터 연산
@@ -98,7 +98,7 @@ int main(void)
 ```
 
 
-!Clipboard_2022-05-18-05-48-44.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-18-05-48-44.png)
+![Clipboard_2022-05-18-05-48-44.png](https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-18-05-48-44.png)
 
 
 
