@@ -1,9 +1,4 @@
----
-attachments: [Clipboard_2022-05-17-05-40-18.png, Clipboard_2022-05-17-05-43-40.png, Clipboard_2022-05-18-05-48-44.png]
-title: C_Language | 220518
-created: '2022-05-16T20:33:44.834Z'
-modified: '2022-05-17T20:55:11.175Z'
----
+
 
 # C_Language | 220518
 
@@ -32,7 +27,7 @@ int main(void)
 }
 ```
 
-!(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img//Clipboard_2022-05-17-05-40-18.png)
+!Clipboard_2022-05-17-05-40-18.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-40-18.png)
 
 
 
@@ -59,7 +54,7 @@ int main(void)
 ```
 
 
-!(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-43-40.png)
+!Clipboard_2022-05-17-05-43-40.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-17-05-43-40.png)
 
 
 ### 2. 포인터 연산
@@ -103,7 +98,7 @@ int main(void)
 ```
 
 
-!(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-18-05-48-44.png)
+!Clipboard_2022-05-18-05-48-44.png(https://github.com/jinsirie/TIL/blob/5139bfbb5ae01164f3fc0e817f84a272913bb42f/img/Clipboard_2022-05-18-05-48-44.png)
 
 
 
