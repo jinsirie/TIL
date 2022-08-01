@@ -33,5 +33,36 @@ int main()
 
 ###### 2. Switch 의 case에 들어가는 코드가 길어지다 보면 변수를 선언하기도 한다
 
+```c
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main()
+{
+    int num1;
+
+    scanf("%d", &num1);
+
+    switch (num1)
+    {
+    case 1 /* constant-expression */:
+       {
+        int num2 = num1;
+        printf("%d 입니다.\n",num2);/* code */
+        break;
+       }
+    case 2:
+        printf("2입니다.\n");
+        break;
+    
+    default:
+        printf("default\n");
+        break;
+    }
+    return 0;
+}
+```
+
+
 
 
