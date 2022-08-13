@@ -41,7 +41,7 @@ int main()
 - 디버거를 사용하면 변수의 메모리 주소,포인터, 역참조를 확인하기가 편리하다.
 - num1은 int 자료형이므로 4바이트며, 0a 00 00 00과 같이 숫자 4개를 차지하게 되고 `F10`를  눌러 *numPtr=20;이 있는 줄을 실행하면 메모리장 1을 보면 0a가 14로 바뀌어진걸 확인할 수 있다.
 
-![image-20220813182624274](https://github.com/jinsirie/TIL/blob/add2b030de0cd0cbe1fde8ec0120cfeb0d26dd6a/img/image-20220813181854294.png)
+![image-20220813182624274]([https://github.com/jinsirie/TIL/blob/add2b030de0cd0cbe1fde8ec0120cfeb0d26dd6a/img/image-20220813181854294.png](https://github.com/jinsirie/TIL/blob/ba740ade531b5504c0363caef5c07bb30dfbaead/img/image-20220813182624274.png))
 
 
 
