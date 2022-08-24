@@ -1,4 +1,4 @@
-## C_Languages l 220825
+## C_Languages l  220825
 
 ### 1. 문자열 사용하기
 
