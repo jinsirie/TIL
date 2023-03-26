@@ -7,7 +7,7 @@
 - homebrew 를 통한 설치
 home brew openjdk 8 설치 키 체인 오류 발생
 
-<img src="/Users/jinsiri/Tasks/shellprogram/github_md/TIL/img/스크린샷 2023-03-25 오후 8.15.03.png">
+<img src="/TIL/img/스크린샷 2023-03-25 오후 8.15.03.png">
 
 
 * github Personal Access Token을 재발급 받아 저장 후, 다시 home brew search 실행 시 정상 실행 확인할 수 있다.
